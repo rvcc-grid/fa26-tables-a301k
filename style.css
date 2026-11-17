@@ -1,3 +1,18 @@
-body {
-  background-color: aliceblue;
+table{
+  border-color: rgb(54, 148, 236);
+  border-width: 2px;
+  border-style: solid;
 }
+
+body {
+  background-color: rgb(25, 210, 216);
+  font-weight: normal;
+  font-family: "Agrave Pro";
+}
+
+h1{
+  font-family: "Agrave Pro";
+  text-align: center;
+}
+
+
